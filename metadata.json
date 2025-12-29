@@ -1,0 +1,7 @@
+{
+  "name": "BusanGo - Travel Planner",
+  "description": "A sophisticated Busan travel companion with daily itineraries, expense splitting with currency conversion, booking management, and integrated mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
